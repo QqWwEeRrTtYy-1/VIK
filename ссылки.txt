@@ -1,0 +1,28 @@
+Ц ‘лексбоксы
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/
+
+Ц »гра про л€гушек и флексбоксы
+https://flexboxfroggy.com/#ru
+
+Ц Ѕиблиотека фотографий
+https://unsplash.com/
+
+Ц »конки
+https://flaticon.com
+https://iconfinder.com
+
+Ц ѕроверить контраст
+https://webaim.org/resources/contrastchecker/
+
+Ц ¬алидатор
+https://validator.w3.org/nu/
+
+Ц CSS Battle
+https://cssbattle.dev
+
+Ц ћедиазапросы
+https://html5book.ru/css3-mediazaprosy/
+
+- ”пражнени€
+https://www.w3schools.com/html/exercise.asp?filename=exercise_html_attributes1
