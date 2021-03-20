@@ -1,0 +1,72 @@
+* {box-sizing: border-box;}
+
+body {
+  margin: 0;
+}
+nav {
+  text-align: center;
+  overflow: hidden;
+  background-color: #FFE4B5;
+}
+
+nav a {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #BDB76B;
+}
+
+nav a:hover {
+  background-color: #BDB76B;
+}
+
+nav a.active {
+  background-color: #FFE4B5;
+  color: #006400;
+}
+
+nav .search-container {
+  float: right;
+}
+
+nav input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+}
+
+nav .search-container button {
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #BDB76B;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+nav .search-container button:hover {
+  background: #BDB76B;
+}
+
+@media screen and (max-width: 600px) {
+  nav .search-container {
+    float: none;
+  }
+  nav a, nav input[type=text], nav .search-container button {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  nav input[type=text] {
+    border: 1px solid #FFE4B5;  
+  }
+}

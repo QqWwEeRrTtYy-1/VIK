@@ -1,0 +1,41 @@
+*{
+	margin: 0 ;
+}
+body {
+	color:#FFF0F5 ;  
+}
+.container {
+	width: 100vw ;
+	height: 100vh ;
+	background-image: radial-gradient(circle at 100%,#00FF00,#00FF7F,#008000);
+	text-align: center;
+}
+
+.start {
+	display: inline-block;
+}
+
+.r {
+	float: left;
+	display: inline-block;
+}
+
+
+
+.m {
+	display: inline-block;
+}
+
+.m2 {
+	float: right;
+	display: inline-block;
+}
+
+.l {
+	float: right;
+	display: inline-block;
+}
+
+#down {
+	padding-top:  180px ;
+}

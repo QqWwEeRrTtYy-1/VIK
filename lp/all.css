@@ -1,0 +1,146 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0 ;
+  color: #000 ;
+}
+.container {      /* НЕ СТАВИТЬ W и H - auto */
+  padding-left: 20px;
+  padding-right: 20px;
+  max-width: 100vw ;
+  height: 100% ;
+  background-image: radial-gradient(circle at 100%,#FFEBCD,#FFE4C4,#D2B48C);
+  text-align: center;
+}
+.point {
+	color: #ffffff;
+}
+.name {
+	padding-top: 20px;
+    font-size: 25px;
+}
+.zagalovok {
+  padding-top: 20px;
+  text-align: center;
+  font-size: 30px ;
+}
+#podzag {
+  font-size: 20px ;
+  text-align: center;
+}
+
+#but a{
+  color: white ;
+}
+#but a:active{
+  color: white ;
+}
+
+#but {
+  margin: 20px auto ;
+  text-align: center;
+  color: white ;
+  padding-top: 10px ;
+  padding-bottom: 10px ;
+  padding-left: 20px ;
+  padding-right: 20px ;
+  border-radius: 10px ;
+  font-size: 30px ;
+  text-align: center;
+  width: 350px ;
+  background-color: #9370DB ;
+  
+}
+.cont {
+	display: inline-block;
+}
+.tt{
+	margin-right: 50px ;
+	display: inline-block;
+	padding-top: 20px ;
+	border-radius: 40px ;
+	background-color: #FFFFFF ;
+	padding-bottom: 20px ;
+}
+.tt1{
+	display: inline-block;
+	padding-top: 20px ;
+	border-radius: 40px ;
+	background-color: #FFFFFF ;
+	padding-bottom: 20px ;
+}
+.tt2{
+	margin-left: 50px ;
+	display: inline-block;
+	padding-top: 20px ;
+	border-radius: 40px ;
+	background-color: #FFFFFF ;
+	padding-bottom: 20px ;
+}
+.tt11 {
+	display: inline-block;
+	padding-top: 20px ;
+	border-radius: 40px ;
+	background-color: #FFC140 ;
+	padding-bottom: 20px ;
+}
+.tt22{
+	margin-left: 50px ;
+	display: inline-block;
+	padding-top: 20px ;
+	border-radius: 40px ;
+	background-color: #FFC140 ;
+	padding-bottom: 20px ;
+}
+#footer div {
+  padding-top: 15px; /* ширина поля вокруг */
+  background: #D3D3D3; 
+  text-align: center;
+}
+@media screen and (max-width: 600px) {
+#container {
+    width: 100% ;
+    height: 100% ;
+  }
+.tt{
+	margin: 0px ;
+	display: inline-block;
+	padding-top: 20px ;
+	border-radius: 40px ;
+	background-color: #FFFFFF ;
+	padding-bottom: 20px ;
+}
+.tt1{
+	display: inline-block;
+	padding-top: 20px ;
+	border-radius: 40px ;
+	background-color: #FFFFFF ;
+	padding-bottom: 20px ;
+}
+.tt2{
+	margin: 0px ;
+	display: inline-block;
+	padding-top: 20px ;
+	border-radius: 40px ;
+	background-color: #FFFFFF ;
+	padding-bottom: 20px ;
+}
+.tt22{
+    margin-right: 50px ;
+}
+.zagalovok {
+    text-align: center;
+    font-size: 25px;
+}
+#podzag {
+    font-size: 25px;
+    text-align: center;
+}
+#footer div {
+    padding: 15px;
+    background: #D3D3D3;
+}
+#footer div {
+  padding: 10px; /* ширина поля вокруг */
+  background: #D3D3D3; 
+}
+}
