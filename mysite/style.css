@@ -1,0 +1,57 @@
+#zg {
+	text-align: center;
+	color: #FF0000 ; 
+	font-family: 'Lobster', cursive;
+}
+
+.photo {
+	text-align:center;
+}
+
+.img {
+    display: inline-block;
+    width: 25% ; 
+}
+
+.txt {
+	width: 100% ; 
+	text-align: center;
+	color: #ff00ff;
+	font-family: 'Lobster', cursive;
+}
+
+.left {
+	padding-right: 30px ; 
+	display: inline-block;
+	text-align: left;
+	width: 350px ;
+}
+
+.right {
+	padding-left: 30px ; 
+	display: inline-block;
+	text-align: left;
+	width: 350px ;
+}
+
+.pdv {
+	width: 100% ; 
+	text-align: center;
+	color: #ff00ff;
+	font-family: 'Lobster', cursive;
+}
+
+.cpr {
+	float: center ; 
+	display: inline-block;
+}
+
+.ma {
+	float: center ; 
+	display: inline-block;
+}
+
+.ph {
+	float: center ; 
+	display: inline-block;
+}
